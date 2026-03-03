@@ -1,2 +1,2 @@
 # python-practice
-My Python learning journey
+My Python learning journey - Deep Thapa
